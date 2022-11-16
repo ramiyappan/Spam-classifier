@@ -8,6 +8,6 @@ MATRIX.TEST -------------------------------> Test Data
 
 MATRIX.TRAIN -----------------------------> Train Data
 
-Naive Bayes - Spam Classifier.ipynb ------> MAIN File.
+Naive bayes - Spam Classifier.ipynb ------> MAIN File.
 
 hw2.pdf ------------------------------------> Instructions for the assignment.
